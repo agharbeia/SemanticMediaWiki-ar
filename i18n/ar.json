@@ -979,7 +979,7 @@
 	"smw-ask-tab-debug": "تصحيح",
 	"smw-ask-tab-code": "كود",
 	"smw-install-incomplete-tasks-title": "مهام الإدارة غير التامّة",
-	"smw-install-incomplete-intro": "توجد {{PLURAL:$2|مهمة [[Special:PendingTaskList|مرجأة]]|مهمتان [[Special:PendingTaskList|مُرجأتان]]|$2 مهام [[Special:PendingTaskList|مُرجأة]]|$2 مهمة [[Special:PendingTaskList|مُرجأة]]}} قبل تمام {{PLURAL:$1|installation|ترقية}} [https://www.semantic-mediawiki.org ميدياويكي الدلالية]، و&#8239;ينبغي أن يجريها أحد مديري النظام أو أحد المستخدمين الذين لديهم الصلاحية المطلوبة، على أن يتمّ ذلك قبل إدخال بيانات جديدة لتفادي عدم الاتساق.",
+	"smw-install-incomplete-intro": "توجد {{PLURAL:$2|مهمة [[Special:PendingTaskList|مرجأة]]|مهمتان [[Special:PendingTaskList|مُرجأتان]]|$2 مهام [[Special:PendingTaskList|مُرجأة]]|$2 مهمة [[Special:PendingTaskList|مُرجأة]]}} قبل تمام {{PLURAL:$1|installation|ترقية}} [https://www.semantic-mediawiki.org ميدياويكي الدلالية]، و&#8239;ينبغي أن {{PLURAL:$2|يجريها|يجريهما|يجريها}} أحد مديري النظام أو أحد المستخدمين الذين لديهم الصلاحية المطلوبة، على أن يتمّ ذلك قبل إدخال بيانات جديدة لتفادي عدم الاتساق.",
 	"smw-install-incomplete-populate-hash-field": "ملء حقل <code>smw_hash</code> تم إغفاله أثناء التنصيب، لذا يلزم تشغيل سكريبت [https://www.semantic-mediawiki.org/wiki/Help:populateHashField.php populateHashField.php].",
 	"smw-install-incomplete-elasticstore-indexrebuild": "تم اختيار <code>ElasticStore</code> [https://www.semantic-mediawiki.org/wiki/Help:smwgDefaultStore كمخزن مبدئي للبيانات]، ومع ذلك لم يتمكن الملحق من العثور على أي سجل بتنفيذ السكريبت [https://www.semantic-mediawiki.org/wiki/Help:rebuildElasticIndex.php rebuildElasticIndex.php]، يُرجَى تشغيل السكريبت حسب التعليمات.",
 	"smw-pendingtasks-setup-tasks": "المهام",
